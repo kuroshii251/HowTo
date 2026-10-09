@@ -10,9 +10,9 @@ QuotesWeb is a website that created for inspiring people through quotes. This we
 ```
 QuotesWeb
 |--- index.html
-|--- submitrequest.html
+|--- submitquote.html
 |--- main.js
-|---- submitrequest.js
+|--- submitquote.js
 ```
 
 # Installation and Running
