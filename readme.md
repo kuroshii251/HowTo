@@ -1,3 +1,3 @@
-#QuotesWeb
+QuotesWeb
 
 What is QuotesWeb?
